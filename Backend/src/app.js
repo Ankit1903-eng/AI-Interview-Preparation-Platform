@@ -9,9 +9,8 @@ app.use(cookieParser());
 
 const allowedOrigins = [
     "http://localhost:5173",
-    "https://ai-interview-preparation-platform.vercel.app" // apna actual Vercel URL
+    "https://ai-interview-preparation-platform-hazel.vercel.app"
 ];
-
 app.use(cors({
     origin: function (origin, callback) {
         if (!origin || allowedOrigins.includes(origin)) {
