@@ -6,9 +6,8 @@ An AI-powered full-stack interview preparation platform that helps job seekers p
 
 ## 🌐 Live Demo
 
-**Frontend:** https://your-project.vercel.app
-
-**Backend API:** https://your-backend.onrender.com
+**Frontend:https://ai-interview-preparation-platform-hazel.vercel.app/login
+**Backend API:https://ai-interview-backend-gz7b.onrender.com
 
 ---
 
